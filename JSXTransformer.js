@@ -1604,8 +1604,8 @@ var substr = 'ab'.substr(-1) === 'b'
     }
 ;
 
-}).call(this,_dereq_("/Users/poshannessy/FB/code/react/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js"))
-},{"/Users/poshannessy/FB/code/react/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js":4}],6:[function(_dereq_,module,exports){
+}).call(this,_dereq_("/Users/casey/vendor/react/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js"))
+},{"/Users/casey/vendor/react/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js":4}],6:[function(_dereq_,module,exports){
 /*
   Copyright (C) 2013 Ariya Hidayat <ariya.hidayat@gmail.com>
   Copyright (C) 2013 Thaddee Tyl <thaddee.tyl@gmail.com>
@@ -10066,8 +10066,8 @@ function amdefine(module, requireFn) {
 
 module.exports = amdefine;
 
-}).call(this,_dereq_("/Users/poshannessy/FB/code/react/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js"),"/../node_modules/jstransform/node_modules/source-map/node_modules/amdefine/amdefine.js")
-},{"/Users/poshannessy/FB/code/react/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js":4,"path":5}],18:[function(_dereq_,module,exports){
+}).call(this,_dereq_("/Users/casey/vendor/react/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js"),"/../node_modules/jstransform/node_modules/source-map/node_modules/amdefine/amdefine.js")
+},{"/Users/casey/vendor/react/node_modules/browserify/node_modules/insert-module-globals/node_modules/process/browser.js":4,"path":5}],18:[function(_dereq_,module,exports){
 /**
  * Copyright 2013 Facebook, Inc.
  *
